@@ -1,2 +1,28 @@
-data,amount,category,description
+date,amount,category,description
+05-01-2024,1500.00,Income,Freelance Project
+12-01-2024,300.00,Expense,Groceries
+20-01-2024,200.00,Expense,Utilities
+25-01-2024,4000.00,Income,Salary
+15-02-2024,1000.00,Income,Consulting
+28-02-2024,450.00,Expense,Rent
+10-03-2024,150.00,Expense,Internet
+22-03-2024,1200.00,Income,Investment Returns
+01-04-2024,100.00,Expense,Transportation
+18-04-2024,2500.00,Income,Salary
+30-04-2024,600.00,Expense,Medical Bills
+07-05-2024,180.00,Expense,Dining Out
+15-05-2024,2000.00,Income,Side Business
+25-05-2024,350.00,Expense,Entertainment
+12-06-2024,400.00,Expense,Home Maintenance
+30-06-2024,200.00,Income,Affiliate Marketing
+10-07-2024,250.00,Expense,Clothing
 20-07-2024,125.65,Income,Salary
+05-08-2024,3500.00,Income,Salary
+15-08-2024,500.00,Expense,Gifts
+20-09-2024,800.00,Income,Investment Dividend
+29-09-2024,300.00,Expense,Travel
+14-10-2024,150.00,Expense,Books
+07-10-2024,240.0,Expense,Vehicle property tax
+07-10-2024,3500.0,Income,Salary
+25-10-2024,2500.00,Income,Salary
+30-11-2024,200.00,Expense,Subscriptions
