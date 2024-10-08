@@ -19,40 +19,38 @@ Cash Caddy is a command-line financial tracker built in Python that helps users 
 ```bash
 git clone https://github.com/kevinwjchoi/cash-caddy.git
 cd cash-caddy
+```
 
 ### Install Dependencies:
 ```bash
 pip install pandas matplotlib
+``` 
 
 ## Usage
 
 ### Run the Application:
 ```bash
 python3 main.py
+```
 
-### Add a Transaction:
+### Add a Transaction
 Follow the prompts to input the date, amount, category (Income or Expense), and an optional description.
 
-### View Transactions:
+### View Transactions
 Enter a date range to see all transactions within that period, along with a summary of total income, total expenses, and net savings.
 
-### Generate Graphs:
+### Generate Graphs
 Optionally, visualize your income and expenses as a graph after viewing transactions.
 
 ## Commands
-1: Add a new transaction
-2: View transactions and summary within a date range
-3: Exit the application
-
+- `1`: Add a new transaction
+- `2`: View transactions and summary within a date range
+- `3`: Exit the application
 
 ## Data Storage
-Transactions are stored in a CSV file named finance_data.csv. The application will create this file automatically if it doesn't exist.
+Transactions are stored in a CSV file named `finance_data.csv`. The application will create this file automatically if it doesn't exist.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find bugs, please submit a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contact
-For questions or feedback, please reach out at github@kevinwjchoi
